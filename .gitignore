@@ -1,0 +1,10 @@
+kit/.*
+kit/*.o
+kit/*.ko
+kit/Module.symvers
+kit/*.mod*
+kit/modules.order
+kit/*.so
+kit/mod/*.o*
+kit/obj
+test/bin
